@@ -3,7 +3,7 @@
     <title>Hành trình học Java</title>
     <link href="https://kendarkmode.github.io/myblog01/feed.xml" rel="self" />
     <link href="https://kendarkmode.github.io/myblog01" />
-    <updated>2025-01-02T17:17:30+07:00</updated>
+    <updated>2025-01-02T17:29:34+07:00</updated>
     <author>
         <name>Nguyễn Anh Kiệt</name>
     </author>
@@ -698,7 +698,7 @@
         <content type="html">
             <![CDATA[
                 <p><strong>Chia Sẻ Quá Trình Học Java Của Mình</strong></p>
-<p><img loading="lazy" src="https://might-could.com/wp-content/uploads/2013/05/Sharing-your-process-800.jpg" alt="Share the Process – Might Could Studios" data-is-external-image="true"></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://might-could.com/wp-content/uploads/2013/05/Sharing-your-process-800.jpg" alt="Share the Process – Might Could Studios" width="702" height="527" data-is-external-image="true"></figure>
 <p>Học Java là một hành trình không thiếu thử thách, nhưng cũng đầy những khoảnh khắc hài hước và thú vị. Tôi bắt đầu từ những bước đầu tiên với những kiến thức cơ bản, như cấu trúc dữ liệu, cú pháp ngôn ngữ, và khái niệm lập trình hướng đối tượng. Thật sự, lúc đó tôi chỉ biết rằng "class" không phải là lớp học, và "object" không phải là vật thể trong phòng thí nghiệm! Nhưng dần dần, khi hiểu được cách các lớp, đối tượng và phương thức trong Java "làm việc" với nhau, tôi bắt đầu cảm thấy như mình đã tìm thấy một bí kíp lập trình kỳ diệu.</p>
 <p><br>Chưa dừng lại ở lý thuyết, tôi cũng đã "xắn tay áo" và bắt tay vào thực hành qua vô số bài tập và dự án nhỏ. Những thử thách này như là những trận đấu "boss" nhỏ, từ việc xây dựng các chương trình đơn giản đến việc phát triển các ứng dụng phức tạp, đòi hỏi tôi phải "chạy" hết tốc lực và "hack" mọi kỹ năng đã học. Tất cả những lỗi bug xuất hiện trong quá trình đó khiến tôi cảm thấy mình giống như một "thám tử" đang giải mã những bí ẩn lập trình.<br><br>Trong suốt hành trình, tôi cũng tham gia vào những nhóm học tập, nơi chúng tôi "đấu trí" và chia sẻ kinh nghiệm. Các cuộc thảo luận, giải đáp thắc mắc và học hỏi từ các bạn thật sự là một "kho báu" giúp tôi cải thiện kỹ năng nhanh chóng. Nhìn chung, tôi tin rằng nếu bạn cũng đang trên con đường học Java, hãy chuẩn bị tinh thần cho một hành trình vừa thử thách vừa cực kỳ vui nhộn và hữu ích.<br><br>Vậy thì, đừng ngần ngại mà hãy cùng tôi xem qua một số "chiến tích" mà tôi đã "săn" được trong hành trình học Java này nhé!</p>
 <p> </p>
