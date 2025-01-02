@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Hành trình học Java</title>
-    <link href="https://github.com/KenDarkmode/myblog01.git/feed.xml" rel="self" />
-    <link href="https://github.com/KenDarkmode/myblog01.git" />
+    <link href="https://kendarkmode.github.io/myblog01/feed.xml" rel="self" />
+    <link href="https://kendarkmode.github.io/myblog01" />
     <updated>2025-01-02T00:28:04+07:00</updated>
     <author>
         <name>Nguyễn Anh Kiệt</name>
     </author>
-    <id>https://github.com/KenDarkmode/myblog01.git</id>
+    <id>https://kendarkmode.github.io/myblog01</id>
 
     <entry>
         <title>Bài 9: Sử Dụng Sự Kiện (Event) trong JavaScript</title>
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-9-su-dung-su-kien-event-trong-javascript.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-9-su-dung-su-kien-event-trong-javascript.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-9-su-dung-su-kien-event-trong-javascript.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-9-su-dung-su-kien-event-trong-javascript.html</id>
 
         <updated>2025-01-02T00:28:04+07:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-8-dom-manipulation-trong-javascript.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-8-dom-manipulation-trong-javascript.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-8-dom-manipulation-trong-javascript.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-8-dom-manipulation-trong-javascript.html</id>
 
         <updated>2025-01-01T22:12:14+07:00</updated>
             <summary>
@@ -82,8 +82,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-7-cac-kieu-du-lieu-va-cau-lenh-dieu-kien-trong-javascript.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-7-cac-kieu-du-lieu-va-cau-lenh-dieu-kien-trong-javascript.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-7-cac-kieu-du-lieu-va-cau-lenh-dieu-kien-trong-javascript.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-7-cac-kieu-du-lieu-va-cau-lenh-dieu-kien-trong-javascript.html</id>
 
         <updated>2025-01-01T21:42:21+07:00</updated>
             <summary>
@@ -157,7 +157,7 @@
 <div>
 <h3><strong>Tóm lại</strong></h3>
 <figure class="post__image post__image--center"> 
-<img loading="lazy"  src="https://github.com/KenDarkmode/myblog01.git/media/posts/8/plan.png" alt="" width="553" height="318" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog01.git/media/posts/8/responsive/plan-xs.png 640w ,https://github.com/KenDarkmode/myblog01.git/media/posts/8/responsive/plan-sm.png 768w ,https://github.com/KenDarkmode/myblog01.git/media/posts/8/responsive/plan-md.png 1024w ,https://github.com/KenDarkmode/myblog01.git/media/posts/8/responsive/plan-lg.png 1366w ,https://github.com/KenDarkmode/myblog01.git/media/posts/8/responsive/plan-xl.png 1600w ,https://github.com/KenDarkmode/myblog01.git/media/posts/8/responsive/plan-2xl.png 1920w"></figure><br>
+<img loading="lazy"  src="https://kendarkmode.github.io/myblog01/media/posts/8/plan.png" alt="" width="553" height="318" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog01/media/posts/8/responsive/plan-xs.png 640w ,https://kendarkmode.github.io/myblog01/media/posts/8/responsive/plan-sm.png 768w ,https://kendarkmode.github.io/myblog01/media/posts/8/responsive/plan-md.png 1024w ,https://kendarkmode.github.io/myblog01/media/posts/8/responsive/plan-lg.png 1366w ,https://kendarkmode.github.io/myblog01/media/posts/8/responsive/plan-xl.png 1600w ,https://kendarkmode.github.io/myblog01/media/posts/8/responsive/plan-2xl.png 1920w"></figure><br>
 <p>Giờ bạn đã hiểu rõ về <strong>các kiểu dữ liệu</strong> trong JavaScript và cách sử dụng <strong>các câu lệnh điều kiện</strong> như một chuyên gia rồi đấy! Chắc chắn rằng với bộ công cụ này, bạn sẽ tạo ra những ứng dụng và trang web cực kỳ thú vị và đầy sáng tạo.</p>
 <p>JavaScript không chỉ là một ngôn ngữ lập trình, nó còn giống như một người bạn đồng hành đầy mạnh mẽ, giúp bạn thực hiện mọi quyết định và hành động trên trang web. Từ việc xử lý dữ liệu, đưa ra quyết định, đến việc thực hiện các phép toán phức tạp – tất cả đều có thể được thực hiện chỉ với vài dòng mã.</p>
 <p>Và nhớ rằng, JavaScript không bao giờ làm bạn buồn tẻ – nó luôn có thể khiến mọi thứ trở nên thú vị!</p>
@@ -177,8 +177,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-6-gioi-thieu-ve-javascript.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-6-gioi-thieu-ve-javascript.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-6-gioi-thieu-ve-javascript.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-6-gioi-thieu-ve-javascript.html</id>
 
         <updated>2025-01-01T21:37:20+07:00</updated>
             <summary>
@@ -271,8 +271,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-5-tinh-ke-thua-trong-java.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-5-tinh-ke-thua-trong-java.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-5-tinh-ke-thua-trong-java.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-5-tinh-ke-thua-trong-java.html</id>
 
         <updated>2025-01-01T21:27:55+07:00</updated>
             <summary>
@@ -331,8 +331,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-4-lop-va-doi-tuong-trong-java.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-4-lop-va-doi-tuong-trong-java.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-4-lop-va-doi-tuong-trong-java.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-4-lop-va-doi-tuong-trong-java.html</id>
 
         <updated>2025-01-01T21:24:13+07:00</updated>
             <summary>
@@ -385,8 +385,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-3-cau-truc-dieu-kien-va-vong-lap.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-3-cau-truc-dieu-kien-va-vong-lap.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-3-cau-truc-dieu-kien-va-vong-lap.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-3-cau-truc-dieu-kien-va-vong-lap.html</id>
 
         <updated>2025-01-01T21:22:12+07:00</updated>
             <summary>
@@ -446,8 +446,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-2-cac-kieu-du-lieu-trong-java.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-2-cac-kieu-du-lieu-trong-java.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-2-cac-kieu-du-lieu-trong-java.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-2-cac-kieu-du-lieu-trong-java.html</id>
 
         <updated>2025-01-01T21:17:41+07:00</updated>
             <summary>
@@ -576,8 +576,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/bai-1-gioi-thieu-ve-java.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/bai-1-gioi-thieu-ve-java.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/bai-1-gioi-thieu-ve-java.html"/>
+        <id>https://kendarkmode.github.io/myblog01/bai-1-gioi-thieu-ve-java.html</id>
 
         <updated>2025-01-01T21:12:14+07:00</updated>
             <summary>
@@ -634,8 +634,8 @@
         <author>
             <name>Nguyễn Anh Kiệt</name>
         </author>
-        <link href="https://github.com/KenDarkmode/myblog01.git/toi-da-hoc-java-nhu-the-nao.html"/>
-        <id>https://github.com/KenDarkmode/myblog01.git/toi-da-hoc-java-nhu-the-nao.html</id>
+        <link href="https://kendarkmode.github.io/myblog01/toi-da-hoc-java-nhu-the-nao.html"/>
+        <id>https://kendarkmode.github.io/myblog01/toi-da-hoc-java-nhu-the-nao.html</id>
 
         <updated>2025-01-01T21:00:45+07:00</updated>
             <summary>
@@ -653,7 +653,7 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/MSI PC/OneDrive/Tài liệu/Publii/sites/javascript/input/media/posts/5/Screenshot-2024-12-29-112739.png" alt="" width="630" height="451" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-xs.png 640w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-sm.png 768w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-md.png 1024w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-lg.png 1366w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-xl.png 1600w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2xl.png 1920w"></figure>
 <figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/MSI PC/OneDrive/Tài liệu/Publii/sites/javascript/input/media/posts/5/Screenshot-2024-12-29-112739-2.png" alt="" width="627" height="416" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-xs.png 640w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-sm.png 768w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-md.png 1024w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-lg.png 1366w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-xl.png 1600w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-2xl.png 1920w"></figure>
 <p>Những thành tựu đó các bạn đều có thể đạt được nhờ vào nỗ lực, không cần phép màu đâu, chỉ cần chút mồ hôi, nước mắt và một ít cà phê nữa là xong!</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/KenDarkmode/myblog01.git/media/posts/1/plan.png" alt="" width="462" height="382" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog01.git/media/posts/1/responsive/plan-xs.png 640w ,https://github.com/KenDarkmode/myblog01.git/media/posts/1/responsive/plan-sm.png 768w ,https://github.com/KenDarkmode/myblog01.git/media/posts/1/responsive/plan-md.png 1024w ,https://github.com/KenDarkmode/myblog01.git/media/posts/1/responsive/plan-lg.png 1366w ,https://github.com/KenDarkmode/myblog01.git/media/posts/1/responsive/plan-xl.png 1600w ,https://github.com/KenDarkmode/myblog01.git/media/posts/1/responsive/plan-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog01/media/posts/1/plan.png" alt="" width="462" height="382" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog01/media/posts/1/responsive/plan-xs.png 640w ,https://kendarkmode.github.io/myblog01/media/posts/1/responsive/plan-sm.png 768w ,https://kendarkmode.github.io/myblog01/media/posts/1/responsive/plan-md.png 1024w ,https://kendarkmode.github.io/myblog01/media/posts/1/responsive/plan-lg.png 1366w ,https://kendarkmode.github.io/myblog01/media/posts/1/responsive/plan-xl.png 1600w ,https://kendarkmode.github.io/myblog01/media/posts/1/responsive/plan-2xl.png 1920w"></figure>
 <p>Nào, hãy cùng tôi bắt đầu cuộc hành trình đầy thú vị này nhé! Từ những bước đi đầu tiên đầy bỡ ngỡ, đến những chiến thắng nho nhỏ trong thế giới lập trình Java, mỗi khoảnh khắc sẽ đều đáng nhớ và mang lại những bài học bổ ích. Hãy sẵn sàng cho một chuyến phiêu lưu không chỉ có thử thách mà còn đầy tiếng cười và bất ngờ. Cùng tôi "khám phá" thế giới Java nào! </p>
 <p><img loading="lazy" src="https://media.licdn.com/dms/image/v2/D4D12AQHVdbBvviM6og/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728296068442?e=2147483647&amp;v=beta&amp;t=SedJMZe5va_VVxJ4IMt5JUaY8sjF0_Iz7qdurFdQOpk" alt="Navigating a Java Developer Career in India: Skills to Master" data-is-external-image="true"></p>
             ]]>
