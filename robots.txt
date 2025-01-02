@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/KenDarkmode/myblog01.git/sitemap.xml
