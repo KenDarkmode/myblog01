@@ -3,7 +3,7 @@
     <title>Hành trình học Java</title>
     <link href="https://kendarkmode.github.io/myblog01/feed.xml" rel="self" />
     <link href="https://kendarkmode.github.io/myblog01" />
-    <updated>2025-01-02T18:20:10+07:00</updated>
+    <updated>2025-01-02T18:26:07+07:00</updated>
     <author>
         <name>Nguyễn Anh Kiệt</name>
     </author>
@@ -602,7 +602,7 @@
 <p><code>char</code> là kiểu dành cho bạn, lưu trữ một ký tự đơn giản như 'A' hay ký tự đặc biệt nào đó, với <strong>2 byte</strong> bộ nhớ.</p>
 <p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        char name = 'A';</code><br><code>        System.out.println("Ký tự: " + name);</code><br><code>    }</code><br><code>}</code><code></code></p>
 <h4>Byte, Short, Int và Long – Lưu trữ các con số, càng lớn càng mạnh mẽ!</h4>
-<figure class="post__image"><img loading="lazy"  src="file:///C:/Users/MSI PC/OneDrive/Tài liệu/Publii/sites/javascript/input/media/posts/2/Screenshot-2024-12-26-144915.png" alt="" width="742" height="612" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-xs.png 640w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-sm.png 768w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-md.png 1024w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-lg.png 1366w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-xl.png 1600w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/MSI PC/OneDrive/Tài liệu/Publii/sites/javascript/input/media/posts/2/Screenshot-2024-12-26-144915.png" alt="" width="742" height="612" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-xs.png 640w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-sm.png 768w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-md.png 1024w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-lg.png 1366w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-xl.png 1600w ,file:///C:/Users/MSI%20PC/OneDrive/Tài%20liệu/Publii/sites/javascript/input/media/posts/2/responsive/Screenshot-2024-12-26-144915-2xl.png 1920w"></figure>
 <ol>
 <li>Byte (1 byte) cho những con số nho nhỏ từ -128 đến 127. Chẳng hạn bạn có thể dùng khi chỉ cần lưu trữ số nhỏ.</li>
 <li>Short (2 byte) thích hợp hơn cho những số nằm trong dải từ -32,768 đến 32,767.</li>
